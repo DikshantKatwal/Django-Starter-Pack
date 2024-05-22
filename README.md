@@ -1,3 +1,4 @@
+# STEPS TO FOLLOW
 Terminal
 -  py -m venv env
 -  ./env/scripts/activate
